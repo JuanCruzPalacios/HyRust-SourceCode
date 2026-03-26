@@ -1,0 +1,120 @@
+HYRUST OPEN SOURCE COMMUNITY LICENSE (OSCL)
+
+Copyright (c) JPC - Pipita
+
+This software project ("HyRust") is released as open source and is made available to the community for use, modification, and distribution under the following terms.
+
+1. PERMISSION TO USE
+
+You are granted permission to use HyRust for personal, educational, and commercial server use, including:
+
+- Running the mod on public or private servers
+- Modifying the source code
+- Adapting the project to your own server needs
+- Creating forks or improvements
+- Integrating HyRust into custom server environments
+- Sharing modified versions under the conditions listed below
+
+This license does not transfer ownership of the project.
+
+The original author retains full copyright ownership of HyRust.
+
+2. SOURCE CODE ACCESS
+
+HyRust is distributed with accessible and non-obfuscated source code to encourage transparency, learning, and community-driven development.
+
+You are allowed to:
+
+- View the source code
+- Study the implementation
+- Modify and improve the project
+- Publish forks or derivatives with proper credit
+
+3. CREDIT REQUIREMENT
+
+All copies, forks, modifications, and redistributions of HyRust must include clear and visible credit to the original author:
+
+JPC - Pipita
+
+Credit must be included in at least one of the following:
+
+- README file
+- Project description
+- Documentation
+- Plugin/mod metadata
+- Repository page
+
+Removing or hiding original authorship is strictly prohibited.
+
+4. REDISTRIBUTION
+
+You may redistribute HyRust or modified versions of it under the following conditions:
+
+- Proper credit to the original author is included
+- The project is not claimed as original work
+- The license is included in the distribution
+- Users are informed that the project is based on HyRust
+
+Redistribution is allowed for both free and commercial server use.
+
+5. COMMERCIAL USE
+
+HyRust may be used on commercial servers and monetized server environments.
+
+However:
+
+- Selling HyRust itself as a standalone product is prohibited
+- Reselling the original or slightly modified version as your own product is prohibited
+- Claiming ownership of the project is prohibited
+
+Server monetization and paid server access are allowed.
+
+6. COMMUNITY CONTRIBUTIONS
+
+Developers and server owners are encouraged to:
+
+- Improve the project
+- Fix bugs
+- Add features
+- Create forks
+- Expand gameplay systems
+
+Community-driven development is fully supported and encouraged.
+
+7. NO WARRANTY
+
+HyRust is provided "AS IS" without any warranty.
+
+The author (JPC - Pipita) is not responsible for:
+
+- Server damage
+- Data loss
+- Compatibility issues
+- Financial losses
+- Performance problems
+- Gameplay issues
+
+Use of this project is at your own risk.
+
+8. TERMINATION
+
+This license is automatically revoked if:
+
+- Credit is removed
+- The project is redistributed without attribution
+- The project is sold as original work
+- The license terms are violated
+
+Upon violation, all rights granted by this license are terminated.
+
+9. FUTURE DEVELOPMENT
+
+The author does not guarantee updates, support, or continued development.
+
+HyRust is released to the community to allow future growth and adaptation by developers and server owners.
+
+10. FINAL TERMS
+
+All rights not explicitly granted remain reserved by the original author.
+
+By using, modifying, or distributing HyRust, you agree to the terms of this license.
