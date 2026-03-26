@@ -1,67 +1,120 @@
-END USER LICENSE AGREEMENT (EULA)
-Product License Agreement
+HYRUST OPEN SOURCE COMMUNITY LICENSE (OSCL)
 
-This software product ("Plugin") is developed and distributed by JPC - Pipita.
+Copyright (c) JPC - Pipita
 
-By purchasing, downloading, installing, or using this Plugin, you agree to the following terms:
+This software project ("HyRust") is released as open source and is made available to the community for use, modification, and distribution under the following terms.
 
-1. LICENSE GRANT
+1. PERMISSION TO USE
 
-Upon valid purchase, you are granted a non-exclusive, non-transferable license to use this Plugin on ONE (1) server network owned or operated by you.
+You are granted permission to use HyRust for personal, educational, and commercial server use, including:
 
-A “server network” is defined as multiple servers under the same ownership or organization, operating as a single project.
+- Running the mod on public or private servers
+- Modifying the source code
+- Adapting the project to your own server needs
+- Creating forks or improvements
+- Integrating HyRust into custom server environments
+- Sharing modified versions under the conditions listed below
 
-This license does NOT grant ownership of the Plugin or its source code.
+This license does not transfer ownership of the project.
 
-2. PERMITTED USE
+The original author retains full copyright ownership of HyRust.
+
+2. SOURCE CODE ACCESS
+
+HyRust is distributed with accessible and non-obfuscated source code to encourage transparency, learning, and community-driven development.
 
 You are allowed to:
-- Use the Plugin within your server network.
-- Modify the Plugin for internal use within your own project.
-- Share the Plugin internally with trusted staff members strictly for operation within your licensed server network.
 
-3. PROHIBITED ACTIONS
+- View the source code
+- Study the implementation
+- Modify and improve the project
+- Publish forks or derivatives with proper credit
 
-You are strictly prohibited from:
-- Redistributing, reselling, sublicensing, or sharing the Plugin outside your licensed server network.
-- Uploading the Plugin to public or private repositories.
-- Sharing the Plugin with other server owners or third parties.
-- Leaking, publishing, or distributing the Plugin in any form (free or paid).
-- Claiming the Plugin as your own work.
+3. CREDIT REQUIREMENT
 
-Any unauthorized distribution voids this license immediately.
+All copies, forks, modifications, and redistributions of HyRust must include clear and visible credit to the original author:
 
-4. UPDATES AND SUPPORT
+JPC - Pipita
 
-This purchase grants access to updates for the duration specified at the time of purchase.
+Credit must be included in at least one of the following:
 
-Updates are not guaranteed indefinitely and may depend on product lifecycle decisions.
+- README file
+- Project description
+- Documentation
+- Plugin/mod metadata
+- Repository page
 
-Support may be denied if:
-- The Plugin has been modified beyond intended configuration.
-- The Plugin is obtained through unauthorized sources.
+Removing or hiding original authorship is strictly prohibited.
 
-5. NO WARRANTY
+4. REDISTRIBUTION
 
-This Plugin is provided “AS IS” without warranty of any kind.
+You may redistribute HyRust or modified versions of it under the following conditions:
 
-The developer (JPC - Pipita) is not responsible for:
+- Proper credit to the original author is included
+- The project is not claimed as original work
+- The license is included in the distribution
+- Users are informed that the project is based on HyRust
+
+Redistribution is allowed for both free and commercial server use.
+
+5. COMMERCIAL USE
+
+HyRust may be used on commercial servers and monetized server environments.
+
+However:
+
+- Selling HyRust itself as a standalone product is prohibited
+- Reselling the original or slightly modified version as your own product is prohibited
+- Claiming ownership of the project is prohibited
+
+Server monetization and paid server access are allowed.
+
+6. COMMUNITY CONTRIBUTIONS
+
+Developers and server owners are encouraged to:
+
+- Improve the project
+- Fix bugs
+- Add features
+- Create forks
+- Expand gameplay systems
+
+Community-driven development is fully supported and encouraged.
+
+7. NO WARRANTY
+
+HyRust is provided "AS IS" without any warranty.
+
+The author (JPC - Pipita) is not responsible for:
+
 - Server damage
 - Data loss
-- Conflicts with other plugins
+- Compatibility issues
 - Financial losses
-- Downtime or instability
+- Performance problems
+- Gameplay issues
 
-Use of this Plugin is at your own risk.
+Use of this project is at your own risk.
 
-6. TERMINATION
+8. TERMINATION
 
-This license is automatically revoked if any of the terms above are violated.
+This license is automatically revoked if:
 
-Upon termination, you must immediately cease using and delete all copies of the Plugin.
+- Credit is removed
+- The project is redistributed without attribution
+- The project is sold as original work
+- The license terms are violated
 
-7. FINAL TERMS
+Upon violation, all rights granted by this license are terminated.
 
-All rights not expressly granted are reserved by JPC - Pipita.
+9. FUTURE DEVELOPMENT
 
-By using this Plugin, you acknowledge that you have read and agreed to these terms.
+The author does not guarantee updates, support, or continued development.
+
+HyRust is released to the community to allow future growth and adaptation by developers and server owners.
+
+10. FINAL TERMS
+
+All rights not explicitly granted remain reserved by the original author.
+
+By using, modifying, or distributing HyRust, you agree to the terms of this license.
